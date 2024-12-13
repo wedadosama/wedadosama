@@ -6,7 +6,7 @@
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ wedad-elkammash-252418309)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedad-elkammash-252418309)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -53,14 +53,14 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-trophies.vercel.app/?username=wedad osama&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-trophies.vercel.app/?username=wedadosama&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats
 
-![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= wedad osama&theme=dark)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wedad osama&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wedad osama &theme=dark&utcOffset=8)
-![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username= wedad osama&theme=dark)
-![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username= wedad osama&theme=dark) <br>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wedad osama&theme=dark&show_icons=true&hide_border=true)
+![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= wedadosama&theme=dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wedadosama&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wedadosama&theme=dark&utcOffset=8)
+![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wedadosama&theme=dark)
+![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wedadosama&theme=dark) <br>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wedadosama&theme=dark&show_icons=true&hide_border=true)
 
