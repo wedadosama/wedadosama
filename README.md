@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats
 
-![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= wedadosama&theme=dark)
+![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wedadosama&theme=dark)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wedadosama&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wedadosama&theme=dark&utcOffset=8)
 ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wedadosama&theme=dark)
