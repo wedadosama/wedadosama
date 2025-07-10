@@ -2,13 +2,13 @@
 
 ### 💻 Front-End Web Developer | Passionate About UI & Clean Code
 
-![Profile Views](https://komarev.com/ghpvc/?username=wedadosama&label=Profile%20Views&color=886FBF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=wedadosama&label=Profile%20Views&color=5D3FD3&style=flat)
 
 ---
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-886FBF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedad-elkammash-252418309)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5D3FD3?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedad-elkammash-252418309)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -17,35 +17,35 @@
 ## 🧳 Tech Stack
 
 ### 🖋️ Markup  
-![HTML](https://img.shields.io/badge/HTML-ffffff?logo=html5&logoColor=E34F26&style=flat)  
-![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?logo=typescript&logoColor=3178C6&style=flat)
+![HTML](https://img.shields.io/badge/HTML-5D3FD3?logo=html5&logoColor=white&style=flat)  
+![TypeScript](https://img.shields.io/badge/TypeScript-5D3FD3?logo=typescript&logoColor=white&style=flat)
 
 ### 🎨 Styling  
-![CSS](https://img.shields.io/badge/CSS-ffffff?logo=css3&logoColor=1572B6&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-ffffff?logo=tailwindcss&logoColor=06B6D4&style=flat)
+![CSS](https://img.shields.io/badge/CSS-5D3FD3?logo=css3&logoColor=white&style=flat)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-5D3FD3?logo=tailwindcss&logoColor=white&style=flat)
 
 ### ⚛️ Front-End Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-ffffff?logo=react&logoColor=61DAFB&style=flat)  
-![Redux](https://img.shields.io/badge/Redux-ffffff?logo=redux&logoColor=764ABC&style=flat)  
-![Axios](https://img.shields.io/badge/Axios-ffffff?logo=axios&logoColor=5A29E4&style=flat)
+![React](https://img.shields.io/badge/React-5D3FD3?logo=react&logoColor=white&style=flat)  
+![Redux](https://img.shields.io/badge/Redux-5D3FD3?logo=redux&logoColor=white&style=flat)  
+![Axios](https://img.shields.io/badge/Axios-5D3FD3?logo=axios&logoColor=white&style=flat)
 
 ### 💻 Code Editors  
-![VS Code](https://img.shields.io/badge/VS_Code-ffffff?logo=visualstudiocode&logoColor=007ACC&style=flat)
+![VS Code](https://img.shields.io/badge/VS_Code-5D3FD3?logo=visualstudiocode&logoColor=white&style=flat)
 
 ### 🔧 Version Control  
-![Git](https://img.shields.io/badge/Git-ffffff?logo=git&logoColor=F05032&style=flat)  
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?logo=github&logoColor=181717&style=flat)
+![Git](https://img.shields.io/badge/Git-5D3FD3?logo=git&logoColor=white&style=flat)  
+![GitHub](https://img.shields.io/badge/GitHub-5D3FD3?logo=github&logoColor=white&style=flat)
 
 ### 📦 Package Manager  
-![npm](https://img.shields.io/badge/npm-ffffff?logo=npm&logoColor=CB3837&style=flat)
+![npm](https://img.shields.io/badge/npm-5D3FD3?logo=npm&logoColor=white&style=flat)
 
 ### 🧑‍🎨 Design Tools  
-![Figma](https://img.shields.io/badge/Figma-ffffff?logo=figma&logoColor=F24E1E&style=flat)  
-![Canva](https://img.shields.io/badge/Canva-ffffff?logo=canva&logoColor=00C4CC&style=flat)
+![Figma](https://img.shields.io/badge/Figma-5D3FD3?logo=figma&logoColor=white&style=flat)  
+![Canva](https://img.shields.io/badge/Canva-5D3FD3?logo=canva&logoColor=white&style=flat)
 
 ### 🤖 AI Tools  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-ffffff?logo=openai&logoColor=74aa9c&style=flat)  
-![Gemini](https://img.shields.io/badge/Gemini-ffffff?logo=google&logoColor=886FBF&style=flat)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-5D3FD3?logo=openai&logoColor=white&style=flat)  
+![Gemini](https://img.shields.io/badge/Gemini-5D3FD3?logo=google&logoColor=white&style=flat)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
