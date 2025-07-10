@@ -53,8 +53,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-trophies.vercel.app/?username=wedadosama&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
+![Trophies](https://github-trophies.vercel.app/?username=wedadosama&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 
 ## 📊 GitHub Stats
