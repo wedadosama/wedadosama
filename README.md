@@ -1,43 +1,64 @@
-<h1 align="center">Hi 👋, I'm Wedad Osama</h1>
+# Hi there 👋 I'm wedad osama
+
 <h3 align="center">🚀 Front-End Developer | React & TypeScript Enthusiast</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=wedadosama&label=Profile%20views&color=0e75b6&style=flat)
 
----
+## 🤝 Connect with me
 
-### 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedad-elkammash-252418309)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wedad%20ElKammash-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wedad-elkammash-252418309)  
-[![Email](https://img.shields.io/badge/Email-welkammash@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:welkammash@gmail.com)
+![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
----
+## 🧳 Tech Stack
 
-### 🛠️ Tech Stack
+- ### Markup Language
 
-**Languages:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- ### 🎨 Styling
 
-**Tools:**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 
----
+- ### 🛠️ Tools
 
-### 📊 GitHub Stats
+  - #### 💻 IDE/Code Editors
 
-![Wedad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wedadosama&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wedadosama&layout=compact&theme=radical)
+    ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
----
+  - #### 🔖 Version Control System
 
-<p align="center">⭐️ Thank you for visiting my GitHub profile ⭐️</p>
+    ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+    ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+
+  - #### 📦 Package Managers
+
+    ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
+
+  - #### 🎨 Design
+
+    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
+    ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+  - #### 🤖 Artificial Intelligence
+
+    ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
+    ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+
+![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+## 💼 Work and Jobs
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/wedad-elkammash-252418309)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-trophies.vercel.app/?username=wedadosama&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 📊 GitHub Stats
+
+![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wedadosama&theme=dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wedadosama&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wedadosama&theme=dark&utcOffset=8)
+![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wedadosama&theme=dark)
+![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wedadosama&theme=dark) <br>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wedadosama&theme=dark&show_icons=true&hide_border=true)
