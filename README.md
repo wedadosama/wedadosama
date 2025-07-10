@@ -1,6 +1,7 @@
 # Hi there 👋 I'm wedad osama
 
-<h3 align="center">🚀 Front-End Developer | React & TypeScript Enthusiast</h3>
+## Front-End Web developer
+
 ![Profile Views](https://komarev.com/ghpvc/?username=wedadosama&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🤝 Connect with me
