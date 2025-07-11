@@ -19,39 +19,39 @@
 ## 🧳 Tech Stack
 
 ### 🖋️ Markup  
-![HTML](https://img.shields.io/badge/HTML-5D3FD3?logo=html5&logoColor=white&style=flat)  
-![TypeScript](https://img.shields.io/badge/TypeScript-5D3FD3?logo=typescript&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ### 🎨 Styling  
-![CSS](https://img.shields.io/badge/CSS-5D3FD3?logo=css3&logoColor=white&style=flat)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-5D3FD3?logo=tailwindcss&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ### ⚛️ Front-End Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-5D3FD3?logo=react&logoColor=white&style=flat)  
-![Redux](https://img.shields.io/badge/Redux-5D3FD3?logo=redux&logoColor=white&style=flat)  
-![Axios](https://img.shields.io/badge/Axios-5D3FD3?logo=axios&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)  
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
 
 ### 💻 Code Editors  
-![VS Code](https://img.shields.io/badge/VS_Code-5D3FD3?logo=visualstudiocode&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ### 🔧 Version Control  
-![Git](https://img.shields.io/badge/Git-5D3FD3?logo=git&logoColor=white&style=flat)  
-![GitHub](https://img.shields.io/badge/GitHub-5D3FD3?logo=github&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ### 📦 Package Manager  
-![npm](https://img.shields.io/badge/npm-5D3FD3?logo=npm&logoColor=white&style=flat)  
-![pnpm](https://img.shields.io/badge/pnpm-5D3FD3?logo=pnpm&logoColor=white&style=flat)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)  
+![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)
 
 ### ⚙️ Advanced Tech  
-![WebAssembly](https://img.shields.io/badge/WebAssembly-5D3FD3?logo=webassembly&logoColor=white&style=flat)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white)
 
 ### 🧑‍🎨 Design Tools  
-![Figma](https://img.shields.io/badge/Figma-5D3FD3?logo=figma&logoColor=white&style=flat)  
-![Canva](https://img.shields.io/badge/Canva-5D3FD3?logo=canva&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 
 ### 🤖 AI Tools  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-5D3FD3?logo=openai&logoColor=white&style=flat)  
-![Gemini](https://img.shields.io/badge/Gemini-5D3FD3?logo=google&logoColor=white&style=flat)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white)  
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
