@@ -8,9 +8,9 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedad-elkammash-252418309)  
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:welkammash@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/wedadosama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5D3FD3?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedad-elkammash-252418309)  
+[![Gmail](https://img.shields.io/badge/Gmail-5D3FD3?logo=gmail&logoColor=white)](mailto:welkammash@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-5D3FD3?logo=github&logoColor=white)](https://github.com/wedadosama)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -19,39 +19,39 @@
 ## 🧳 Tech Stack
 
 ### 🖋️ Markup  
-![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-5D3FD3?logo=html5&logoColor=original)  
+![TypeScript](https://img.shields.io/badge/TypeScript-5D3FD3?logo=typescript&logoColor=original)
 
 ### 🎨 Styling  
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-5D3FD3?logo=css3&logoColor=original)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-5D3FD3?logo=tailwindcss&logoColor=original)
 
 ### ⚛️ Front-End Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)  
-![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
+![React](https://img.shields.io/badge/React-5D3FD3?logo=react&logoColor=original)  
+![Redux](https://img.shields.io/badge/Redux-5D3FD3?logo=redux&logoColor=original)  
+![Axios](https://img.shields.io/badge/Axios-5D3FD3?logo=axios&logoColor=original)
 
 ### 💻 Code Editors  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-5D3FD3?logo=visualstudiocode&logoColor=original)
 
 ### 🔧 Version Control  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-5D3FD3?logo=git&logoColor=original)  
+![GitHub](https://img.shields.io/badge/GitHub-5D3FD3?logo=github&logoColor=original)
 
 ### 📦 Package Manager  
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)  
-![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)
+![npm](https://img.shields.io/badge/npm-5D3FD3?logo=npm&logoColor=original)  
+![pnpm](https://img.shields.io/badge/pnpm-5D3FD3?logo=pnpm&logoColor=original)
 
 ### ⚙️ Advanced Tech  
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-5D3FD3?logo=webassembly&logoColor=original)
 
 ### 🧑‍🎨 Design Tools  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-5D3FD3?logo=figma&logoColor=original)  
+![Canva](https://img.shields.io/badge/Canva-5D3FD3?logo=canva&logoColor=original)
 
 ### 🤖 AI Tools  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white)  
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-5D3FD3?logo=openai&logoColor=original)  
+![Gemini](https://img.shields.io/badge/Gemini-5D3FD3?logo=google&logoColor=original)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
