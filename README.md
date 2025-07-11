@@ -8,7 +8,9 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5D3FD3?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedad-elkammash-252418309)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedad-elkammash-252418309)  
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:welkammash@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/wedadosama)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -37,7 +39,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-5D3FD3?logo=github&logoColor=white&style=flat)
 
 ### 📦 Package Manager  
-![npm](https://img.shields.io/badge/npm-5D3FD3?logo=npm&logoColor=white&style=flat)
+![npm](https://img.shields.io/badge/npm-5D3FD3?logo=npm&logoColor=white&style=flat)  
+![pnpm](https://img.shields.io/badge/pnpm-5D3FD3?logo=pnpm&logoColor=white&style=flat)
+
+### ⚙️ Advanced Tech  
+![WebAssembly](https://img.shields.io/badge/WebAssembly-5D3FD3?logo=webassembly&logoColor=white&style=flat)
 
 ### 🧑‍🎨 Design Tools  
 ![Figma](https://img.shields.io/badge/Figma-5D3FD3?logo=figma&logoColor=white&style=flat)  
@@ -54,6 +60,7 @@
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-trophies.vercel.app/?username=wedadosama&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 
 ## 📊 GitHub Stats
@@ -64,5 +71,3 @@
 ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wedadosama&theme=github_dark)  
 ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wedadosama&theme=github_dark)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wedadosama&theme=github_dark&show_icons=true&hide_border=true)
-
----
