@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5D3FD3?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedad-elkammash-252418309)  
 [![Gmail](https://img.shields.io/badge/Gmail-5D3FD3?logo=gmail&logoColor=white)](mailto:welkammash@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-5D3FD3?logo=github&logoColor=white)](https://github.com/wedadosama)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
