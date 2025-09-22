@@ -25,7 +25,7 @@ I love exploring new technologies, designing user-friendly UIs, and turning crea
 
 | **Markup** | **Styling** | **Frameworks** | **State Management** | **Tools** |
 |------------|-------------|-----------------|----------------------|-----------|
-| ![HTML](https://img.shields.io/badge/HTML-5D3FD3?logo=html5&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-5D3FD3?logo=typescript&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-5D3FD3?logo=css3&logoColor=white) <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-5D3FD3?logo=tailwindcss&logoColor=white) | ![React](https://img.shields.io/badge/React-5D3FD3?logo=react&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-5D3FD3?logo=redux&logoColor=white) <br> ![Axios](https://img.shields.io/badge/Axios-5D3FD3?logo=axios&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-5D3FD3?logo=visualstudiocode&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-5D3FD3?logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-5D3FD3?logo=github&logoColor=white) |
+| ![HTML](https://img.shields.io/badge/HTML-5D3FD3?logo=html5&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-5D3FD3?logo=typescript&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-5D3FD3?logo=css3&logoColor=white) <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-5D3FD3?logo=tailwindcss&logoColor=white) | ![React](https://img.shields.io/badge/React-5D3FD3?logo=react&logoColor=white) <br> ![Next.js](https://img.shields.io/badge/Next.js-5D3FD3?logo=nextdotjs&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-5D3FD3?logo=redux&logoColor=white) <br> ![Axios](https://img.shields.io/badge/Axios-5D3FD3?logo=axios&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-5D3FD3?logo=visualstudiocode&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-5D3FD3?logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-5D3FD3?logo=github&logoColor=white) |
 
 ### 📦 Package Managers  
 ![npm](https://img.shields.io/badge/npm-5D3FD3?logo=npm&logoColor=white)  
@@ -56,6 +56,7 @@ I love exploring new technologies, designing user-friendly UIs, and turning crea
 
 - Advanced React (Hooks & Context)  
 - Redux Toolkit  
+- Next.js  
 - WebAssembly with AssemblyScript  
 
 ---
